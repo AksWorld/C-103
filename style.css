@@ -1,0 +1,17 @@
+.header{
+    border: 3px ridge black;
+    border-radius: 10px;
+    background-color:tomato;
+    font-weight: bold;
+    width: 80%;
+
+}
+body{
+    background-color:rgb(101, 234, 234);
+}
+.webcam,.result{
+    border: 5px ridge black;
+    width:200px;
+    height:200px;
+   }
+   
